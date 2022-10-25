@@ -26,8 +26,6 @@ export COLOR_LIGHT_CYAN='\e[1;36m'
 export COLOR_LIGHT_GRAY='\e[0;37m'
 export COLOR_WHITE='\e[1;37m'
 
-export V='Version: 0.5.2'
-
 #Wake up, Neo...
 /usr/bin/clear
 
